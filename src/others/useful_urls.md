@@ -8,4 +8,9 @@
   * https://qiita.com/yoshii0110/items/0accb7f21fa1c375e0d7
 
 ## 個人的に好きな技術ブログ
-* 
+* AI shiftさん AI関係の話題多し
+  * https://www.ai-shift.co.jp/techblog
+
+## 競技？
+* ISUCON Webサービスのチューニングバトル
+  * https://isucon.net/

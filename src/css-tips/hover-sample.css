@@ -1,0 +1,17 @@
+@media (hover: hover) {
+    /* マウス操作の時だけ */
+
+    /* リンクの場合 any-link:href 属性がある a 要素（と、area 要素）にのみマッチするセレクタ*/
+    a:any-link:hover {}
+
+    /* ボタンの場合 :enabled :クリックできるかどうかを区別する */
+    button:enabled:hover {}
+
+    /* 特定できない場合 summaryは疑似クラスでは識別できないので、要素セレクタを使用　*/
+    .button:where(:any-link, :enabled, summary):hover {}
+
+    /* 親要素がホバーされた時 Linkが親、画像が子みたいなときに利用*/
+    :where(:any-link, :enabled, summary):hover .image {
+        transform: scale(1.1);
+    }
+}

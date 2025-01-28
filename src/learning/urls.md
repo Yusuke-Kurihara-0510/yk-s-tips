@@ -1,7 +1,3 @@
-* 学習に役立つリポジトリ集
-  * https://qiita.com/tadashiro_ninomiya/items/e8d56c3a642eac3e17f3
-* freecodeキャンプ 実行環境あり ちょい古い？
-  * https://www.freecodecamp.org/japanese/learn/front-end-development-libraries/#react
 * cssの情報
   * https://moderncss.dev/topics/
 * dockerがブラウザ上で学べる
@@ -10,10 +6,8 @@
   * https://math4devs.com/
 * ネットワークの基本を学べる
   * https://www.infraexpert.com/study/
-* 無料学習教材。認定証も出る！
-  * https://www.freecodecamp.org/japanese/
-* ここも無料
-  * https://www.w3schools.com/
+* HTTPの仕組み
+  * https://zenn.dev/masahiro_toba/books/3daf7dc0d5dfd7
 * web開発を学ぶ
   * https://web.dev/javascript?hl=ja
 * c++
@@ -29,3 +23,15 @@
 * AWS学習
   * https://qiita.com/toma_shohei/items/b7a001d26bd988d52021
   * https://qiita.com/kimuni-i/items/3e484bb40cc3a922400b
+
+## いろいろ学べるところ
+* 無料学習教材。認定証も出る！
+  * https://www.freecodecamp.org/japanese/
+* ここも無料
+  * https://www.w3schools.com/
+* 学習に役立つリポジトリ集
+  * https://qiita.com/tadashiro_ninomiya/items/e8d56c3a642eac3e17f3
+* freecodeキャンプ 実行環境あり ちょい古い？
+  * https://www.freecodecamp.org/japanese/learn/front-end-development-libraries/#react
+* フロントエンドのデザインパターン
+  * https://zenn.dev/morinokami/books/learning-patterns-1/viewer/compound-pattern

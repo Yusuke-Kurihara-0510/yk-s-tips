@@ -13,3 +13,12 @@
   * https://caniuse.com/
 * Webデザインの定番UIパーツ
   * https://qiita.com/nucoyuyu/items/49c3f9805d9c7e1f5c11
+* CSS作成できるサイト
+  * アニメーション生成
+    * https://webcode.tools/css-generator/keyframe-animation
+  * 形くりぬき
+    * https://bennettfeely.com/clippy/
+  * レイアウト
+    * https://layout.bradwoods.io/
+  * 影
+    * https://www.joshwcomeau.com/shadow-palette/

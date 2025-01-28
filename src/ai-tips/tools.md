@@ -38,3 +38,7 @@
   * https://cades.dev/
   * モバイルアプリも開発できる
   * ただコードをダウンロードとかしようと思うと有料プランにしないといけない..
+* 議事録
+  * https://tldv.io/ja/
+* SQLレビュー
+  * https://www.airops.com/sql-guide/how-to-calculate-customer-churn-rate-with-sql

@@ -10,3 +10,6 @@
 
 ### 最近の記述
 * https://zenn.dev/necscat/articles/bc9bba54babaf5#defer
+
+### JavaScriptでアルゴリズムの勉強
+* https://github.com/trekhleb/javascript-algorithms/blob/master/README.ja-JP.md

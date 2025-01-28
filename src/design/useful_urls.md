@@ -9,3 +9,5 @@
   * https://www.slideland.tech/
   * https://design-sli.de/
 * UI
+* Webサイトテンプレート集（無料で利用可能）
+  * https://template-party.com/
