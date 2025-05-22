@@ -35,3 +35,7 @@
   * https://www.freecodecamp.org/japanese/learn/front-end-development-libraries/#react
 * フロントエンドのデザインパターン
   * https://zenn.dev/morinokami/books/learning-patterns-1/viewer/compound-pattern
+* 東大・東大生が公開しているエンジニアが読むべき資料まとめ
+  * https://qiita.com/KNR109/items/853c8d8fe36ede1cc453
+* w3school
+  * https://www.w3schools.com/

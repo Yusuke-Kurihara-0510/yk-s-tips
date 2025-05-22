@@ -22,3 +22,5 @@
     * https://layout.bradwoods.io/
   * 影
     * https://www.joshwcomeau.com/shadow-palette/
+* アニメーションのライブラリ
+  * https://gsap.com/

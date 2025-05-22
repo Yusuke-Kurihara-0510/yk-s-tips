@@ -42,3 +42,6 @@
   * https://tldv.io/ja/
 * SQLレビュー
   * https://www.airops.com/sql-guide/how-to-calculate-customer-churn-rate-with-sql
+* Dataiku
+  * https://www.dataiku.com/ja/
+  * 参考: https://qiita.com/setowatson/items/a8aa29d1e16fd0227f22

@@ -1,0 +1,55 @@
+<!-- 参考:https://var.blog.jp/archives/74698268.html -->
+
+<!-- スクロールバーが表示されることで角丸じゃなくなってしまう...(macでは問題なかった..) -->
+
+<!-- 対応方法：内側 div にスクロールバーをつけて外側 div で overflow: hidden で無理矢理隠す -->
+<!-- 外側に padding つけてスクロールバーが隠れないようにするのがそもそも良いかも -->
+
+<!-- NG -->
+<!doctype html>
+<style>
+body{
+	background: #fffcc0;
+}
+
+#pattern1 {
+	width:100px;
+	height:100px;
+	background:#eee;
+	margin:30px;
+	border-radius:20px;
+	overflow: auto;
+}
+</style>
+
+<div id="pattern1">
+	<p>a</p><p>a</p><p>a</p><p>a</p><p>a</p>
+</div>
+
+
+<!-- OK -->
+<!doctype html>
+<style>
+body{
+	background: #fffcc0;
+}
+
+#pattern2 {
+	width:100px;
+	height:100px;
+	background:#eee;
+	margin:30px;
+	border-radius:20px;
+	overflow: hidden;
+}
+
+#pattern2 .inner{
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+}
+</style>
+
+<div id="pattern2"><div class="inner">
+	<p>a</p><p>a</p><p>a</p><p>a</p><p>a</p>
+</div></div>

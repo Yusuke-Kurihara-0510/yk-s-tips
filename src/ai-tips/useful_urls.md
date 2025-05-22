@@ -3,3 +3,9 @@
   * https://prompt.quel.jp/
 * microsoftの学区集教材
   * https://github.com/microsoft/generative-ai-for-beginners
+* 便利なMCPサーバ
+  * https://qiita.com/masakinihirota/items/8971aa8ccead3193e77f#context7
+* viveコーディングのプラクティス
+  * https://note.com/persona_1/n/n53fd2317cd36
+* プロンプトエンジニアリングガイド
+  * https://www.promptingguide.ai/jp
